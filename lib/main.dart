@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'تطبيق أمل',
       theme: ThemeData(
-        scaffoldBackgroundColor: const Color(0xFFE0F7F5), // تركوازي فاتح للخلفية
+        scaffoldBackgroundColor: const Color(0xFFFFFFFF), // تركوازي فاتح للخلفية
         appBarTheme: const AppBarTheme(
           backgroundColor: Color(0xFF00897B), // تركوازي داكن أنيق
           foregroundColor: Colors.white, // لون نص العنوان بالأبيض
